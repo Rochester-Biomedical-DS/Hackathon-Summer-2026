@@ -1,34 +1,38 @@
 # Leaderboard for GIDS Biomedical Data Hackathon 2026
 
--   **time stamp:** “18 August, 2026 15:00:27”
+-   **time stamp:** “19 August, 2026 15:00:06”
 
 
 | pseudonym                | accuracy |   kappa |
 |:-------------------------|---------:|--------:|
+| codex power              |   0.8138 |  0.8019 |
+| Biostat Ted              |   0.7786 |  0.7638 |
 | Jfeld                    |   0.7784 |  0.7647 |
-| Biostat Ted              |   0.7780 |  0.7632 |
-| N=4!                     |   0.7638 |  0.7487 |
-| codex power              |   0.7620 |  0.7463 |
+| Cookie Monster           |   0.7716 |  0.7565 |
+| Overfit Happens          |   0.7656 |  0.7504 |
 | Small Potato Predictions |   0.7616 |  0.7459 |
-| Overfit Happens          |   0.7586 |  0.7428 |
-| VHS                      |   0.7420 |  0.7251 |
+| N=4!                     |   0.7580 |  0.7427 |
+| Apologia                 |   0.7548 |  0.7381 |
+| XDRKAMOA                 |   0.7522 |  0.7356 |
+| VHS                      |   0.7408 |  0.7234 |
 | H-Net                    |   0.7392 |  0.7203 |
-| 60hahsm                  |   0.7300 |  0.7115 |
-| Dossier                  |   0.7196 |  0.7006 |
+| 60hahsm                  |   0.7358 |  0.7177 |
+| Dossier                  |   0.7202 |  0.7012 |
+| Hibbinslings             |   0.6908 |  0.6750 |
 | Vela Pulsar              |   0.6450 |  0.6222 |
-| Hibbinslings             |   0.5114 |  0.4685 |
-| Cookie Monster           |   0.0560 | -0.0020 |
+| TinyCoder                |   0.4964 |  0.4645 |
+| Diversity                |   0.4778 |  0.4310 |
 | Cadenza                  |   0.0560 | -0.0020 |
-| Apologia                 |   0.0560 | -0.0020 |
-| TinyCoder                |   0.0560 | -0.0020 |
 | MF                       |   0.0560 | -0.0020 |
-| Diversity                |   0.0560 | -0.0020 |
+| Spencer                  |   0.0560 | -0.0020 |
 | Genetic Drifters         |   0.0560 | -0.0020 |
 | MGCG                     |   0.0560 | -0.0020 |
+| JVB2026                  |   0.0560 | -0.0020 |
 | Right and Left           |   0.0560 | -0.0020 |
 | FLY                      |   0.0560 | -0.0020 |
 | YEAST                    |   0.0560 | -0.0020 |
 | AT                       |   0.0560 | -0.0020 |
+| Pluto                    |   0.0560 | -0.0020 |
 
 ***Scoring:***
 
@@ -67,10 +71,7 @@ Please read instructions carefully.*
 | hihi                 |
 | Vector               |
 | Aristocytes          |
-| Spencer              |
 | LeBonBon             |
-| XDRKAMOA             |
-| iLoveRunning67       |
 | BMJA                 |
 | S.R                  |
 | LN                   |
