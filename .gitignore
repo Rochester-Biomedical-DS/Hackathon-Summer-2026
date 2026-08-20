@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 docs
 merfish_learning_baseline.ipynb
+predict_celltypes.py
