@@ -42,3 +42,4 @@ Predictions should be posted to your GitHub account as plain text with two colum
 **Scoring**
 
 Text files associated with hackathon-registered GitHub accounts will be assessed each day of the competition. To submit predictions, please make sure that your properly formatted prediction.txt file is in your forked repository of "/Hackathon-Summer-2026/main/prediction/prediction.csv." Prediction files will be pulled at 3 PM, and results will be posted shortly afterward here [Leaderboard.Hackathon.2026.md](Leaderboard.Hackathon.2026.md). 
+See README and e-mail from organizers about final scoring for cash prize determination on validation dataset. All teams must submit their code to their captain's GitHub by 8/22 at 3pm and new predictions on the validation data by 8/23 at 10am in order to compete for cash prizes.
